@@ -1,4 +1,4 @@
-## **Use Case Model**
+## **Use Cases**
 
 | **Use Case** | **Description** | **Associated Requirement ID** |
 |---------------|----------------|-------------------------------|

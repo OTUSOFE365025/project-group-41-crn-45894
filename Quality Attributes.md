@@ -1,3 +1,5 @@
+## Quality Attributes 
+
 | **ID** | **Quality Attribute** | **Scenario** | **Associated Use Case** |
 |---------|----------------------|---------------|--------------------------|
 | **QA-1** | **Performance** | When a student provides a natural-language question during normal use, the assistant should reply within 2 seconds on average under normal load. | UC-1 |

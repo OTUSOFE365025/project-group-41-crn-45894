@@ -2,8 +2,8 @@
 
 | **Use Case** | **Description** | **Associated Requirement ID** |
 |---------------|----------------|-------------------------------|
-| **UC-1: Query institutional data** | A student or lecturer uses the digital assistant to ask questions through text or voice. The assistant interprets the question, gets the right information from systems like the LMS or registration, and gives a quick response. | R1, R3, R5, RS1, RS9, RL6 |
-| **UC-2: Post announcements and notifications** | A lecturer or administrator uses the assistant to send announcements or set reminders. The system checks permissions, then sends the message to all relevant users through their devices or dashboard. | R1, RL2, RA3, RS2, RL4 |
+| **UC-1: Query institutional data** | A student or lecturer interacts with the digital assistant through a text or voice interface to gather information such as class schedules, deadlines, and announcements. The assistant also interprets the natural-language input and gathers data from the connected LMS or registration systems and delivers a response all in real time. | R1, R3, R5, RS1, RS9, RL6 |
+| **UC-2: Post announcements and notifications** |A lecturer or administrator uses the assistant to publish announcements or schedule automated reminders. The system verifies permissions, broadcasts the message to relevant users, and notifies students through their connected devices or dashboard. | R1, RL2, RA3, RS2, RL4 |
 | **UC-3: Manage course materials** | A lecturer uploads or updates course materials that students can view through the assistant. The system makes sure only authorized users can make changes. | RL1, RL5, RL8 |
 | **UC-4: View analytics and performance summaries** | A lecturer or administrator asks the assistant to show class or system analytics. The assistant gathers and shows summaries like attendance or engagement. | RL3, RL6, RA4 |
 | **UC-5: Manage institutional integrations and policies** | An administrator sets up or manages system connections (like LMS or calendars) and controls data rules such as retention and response logging. | RA1, RA2 |

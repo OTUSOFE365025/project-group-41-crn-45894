@@ -51,8 +51,6 @@ In this second iteration, the refinement focuses on the modules located across t
 
 ### **Modules that support the primary use cases:**
 ![Primary Use Case Modules](primarymodules.png)
-### Module Responsibilities
-
 
 | **Element** | **Responsibility** |
 |-------------|--------------------|

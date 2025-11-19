@@ -87,7 +87,6 @@ The diagram below shows the sketch of a module view of the reference architectur
 | **Security Module SS** | This module is responsible for enforcing all security-related policies and services that apply across other layers. |
 | **External Systems** | This layer represents university-managed systems such as the LMS, Registration, and Calendar services.|
 
----
 
 ### **Deployment Diagram**
 

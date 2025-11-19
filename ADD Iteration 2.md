@@ -75,10 +75,6 @@ The ConversationalEngine then constructs a Response domain object containing the
 
 ![Use Case 1](uc1.png)
 
-
-### Method Definitions
-
-
 | **Method Name** | **Description** |
 |------------------|-----------------|
 | **Element: ChatView** | |
@@ -102,10 +98,6 @@ The user submits announcement text through the ChatView. The ChatController forw
 
 
 ![Use Case 2](uc2.png)
-
-
-### Method Definitions — Announcement Functionality
-
 
 | **Method Name** | **Description** |
 |------------------|-----------------|
@@ -162,8 +154,6 @@ When the User initiates a sync, the request is handled by the ChatController on 
 
 
 The following table summarizes the design progress using the Kanban board technique:
-### Iteration Progress — Kanban Table
-
 
 | **Not Addressed** | **Partially Addressed** | **Completely Addressed** | **Design Decision Made During the Iteration** |
 |-------------------|-------------------------|---------------------------|------------------------------------------------|

@@ -10,3 +10,29 @@
 | **Constraints** | All system constraints identified in Deliverable 1 are included as design drivers:<br><br>• **CON-1:** Institutional privacy compliance and data protection.<br>• **CON-2:** Single Sign-On authentication for secure access.<br>• **CON-3:** Cloud-native deployment with scalability based on use.<br>• **CON-4:** Standard REST/GraphQL APIs for interoperability.<br>• **CON-5:** Accessibility through both web browsers and mobile devices.<br>• **CON-6:** Continuous deployment with zero downtime.<br>• **CON-7:** The AI modules shall be implemented using Python-based machine learning frameworks, as the development team is most proficient in Python. |
 | **Architectural Concerns** | All previously discussed architectural concerns in Deliverable 1 are considered drivers:<br><br>• **CRN-1:** Monitoring of system health and latency.<br>• **CRN-2:** AI performance metric logging.<br>• **CRN-3:** Role-based access control.<br>• **CRN-4:** Backup and restore procedures.<br>• **CRN-5:** Data synchronization consistency. |
 
+## Iteration 1: Establishing an Overall Systems Structure
+
+### Step 2 – Establish Iteration Goal by Selecting Drivers
+
+This is the first iteration in the design of a greenfield system, so the goal of this iteration is to achieve the architectural concern **CRN-1**, which is establishing an overall system structure that guarantees reliability and performance monitoring in the AIDAP platform.
+
+This iteration is guided by a general architectural concern; however, it is important to note all drivers that affect the general structure of the system. Specifically, the most relevant drivers are:
+
+- **QA-1:** Performance  
+- **QA-2:** Availability  
+- **QA-3:** Scalability  
+- **QA-4:** Security  
+- **CON-1:** Compliance with institutional privacy and security policies  
+- **CON-2:** Secure authentication through Single Sign-On (SSO)  
+- **CON-3:** Cloud-native deployment for elastic scalability  
+- **CON-4:** Use of standard APIs (REST or GraphQL) for interoperability  
+- **CON-5:** Accessibility via web and mobile interfaces  
+- **CRN-1:** Monitoring of system health, latency, and errors  
+- **CRN-5:** Data synchronization consistency across connected systems  
+
+The purpose of this iteration is to find the overall architectural boundaries of AIDAP, which includes identifying the main system under development, its external systems, and the direction of information flow between them.
+
+### Step 3 – Choose One or More Elements of the System to Refine
+
+This is a greenfield system, so in this case the element to refine is the **entire AIDAP System**, which is shown in the context diagram:
+

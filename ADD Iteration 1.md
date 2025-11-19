@@ -35,7 +35,7 @@ The purpose of this iteration is to find the overall architectural boundaries of
 ### Step 3 – Choose One or More Elements of the System to Refine
 
 This is a greenfield system, so in this case the element to refine is the **entire AIDAP System**, which is shown in the context diagram:
-![Context Diagram](context-diagram.drawio.png)
+![Context Diagram](contextdiagram.png)
 
 ### Step 4 – Choose One or More Design Concepts That Satisfy the Selected Drivers
 
@@ -62,15 +62,10 @@ The instantiation design decisions considered and made are shown in the followin
 
 The diagram below shows the sketch of a module view of the reference architectures selected for the client and server applications:
 
----
 
 ### **Module View Diagram**
 
-![Module View Diagram](/mnt/data/a3b9ef25-578c-4aae-a554-4931e46bf6dc.png)
-
----
-
-### **Module Responsibilities**
+![Module View Diagram](modelview.png)
 
 | **Element** | **Responsibility** |
 |-------------|--------------------|
@@ -99,9 +94,8 @@ The diagram below shows the sketch of a module view of the reference architectur
 
 The deployment diagram below illustrates where the components associated with the modules will be deployed:
 
-![Deployment Diagram](/mnt/data/9a180e73-cbdc-44b0-8411-8da20fe4eaa0.png)
+![Deployment Diagram](deployment.png)
 
----
 
 ### **Deployment Responsibilities**
 
@@ -111,8 +105,6 @@ The deployment diagram below illustrates where the components associated with th
 | **Application Server** | The server that hosts the server-side logic of the application and also serves webpages. |
 | **Database Server** | Hosts the relational database storing business entities and logs. |
 | **External Systems** | Institutional systems that provide data for UC-1, UC-3, UC-4, and UC-7. |
-
----
 
 ### **Communication Relationships**
 

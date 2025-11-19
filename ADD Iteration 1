@@ -35,7 +35,7 @@ The purpose of this iteration is to find the overall architectural boundaries of
 ### Step 3 – Choose One or More Elements of the System to Refine
 
 This is a greenfield system, so in this case the element to refine is the **entire AIDAP System**, which is shown in the context diagram:
-![Context Diagram](context-diagram.drawio.png)
+![Context Diagram](contextdiagram.png)
 
 ### Step 4 – Choose One or More Design Concepts That Satisfy the Selected Drivers
 
@@ -99,7 +99,7 @@ The diagram below shows the sketch of a module view of the reference architectur
 
 The deployment diagram below illustrates where the components associated with the modules will be deployed:
 
-![Deployment Diagram](/mnt/data/9a180e73-cbdc-44b0-8411-8da20fe4eaa0.png)
+![Deployment Diagram](deployment.png)
 
 ---
 

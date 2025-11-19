@@ -35,4 +35,6 @@ The purpose of this iteration is to find the overall architectural boundaries of
 ### Step 3 – Choose One or More Elements of the System to Refine
 
 This is a greenfield system, so in this case the element to refine is the **entire AIDAP System**, which is shown in the context diagram:
+![Context Diagram](context-diagram.drawio)
+
 

@@ -1,4 +1,4 @@
-## Iteration 2: Identifying Structures to Support Primary Functionality
+## ADD Iteration 2: Identifying Structures to Support Primary Functionality
 
 ### Step 2 – Establish Iteration Goal by Selecting Drivers
 
@@ -15,4 +15,5 @@ The primary use cases considered are:
 ### Step 3 – Choose One or More Elements of the System to Refine
 
 In this second iteration, the refinement focuses on the modules located across the layers of the Web Application reference architectures established in Iteration 1. The refinement in this iteration focuses on the modules in the Presentation, Business, Data, and Cross-Cutting layers from both the client and server sides, as these together support the system’s primary functional use cases.
-Include in this file the 7 steps for Iteration 2
+
+

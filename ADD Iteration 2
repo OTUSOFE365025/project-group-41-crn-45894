@@ -1,1 +1,18 @@
+## Iteration 2: Identifying Structures to Support Primary Functionality
+
+### Step 2 – Establish Iteration Goal by Selecting Drivers
+
+The goal of Iteration 2 is to address the general architectural concern of identifying structures that support primary functionality. Iteration 2 now focuses on the system’s key use cases, which form the basis for identifying the relevant architectural elements.
+
+The primary use cases considered are:
+
+- **UC-1:** Perform Conversational Query  
+- **UC-2:** View Announcements & Notifications  
+- **UC-7:** Integrate with External Systems (LMS, Registration, Calendar)
+
+---
+
+### Step 3 – Choose One or More Elements of the System to Refine
+
+In this second iteration, the refinement focuses on the modules located across the layers of the Web Application reference architectures established in Iteration 1. The refinement in this iteration focuses on the modules in the Presentation, Business, Data, and Cross-Cutting layers from both the client and server sides, as these together support the system’s primary functional use cases.
 Include in this file the 7 steps for Iteration 2

@@ -101,8 +101,6 @@ The deployment diagram below illustrates where the components associated with th
 | **Database Server** | Hosts the relational database storing business entities and logs. |
 | **External Systems** | Institutional systems that provide data for UC-1, UC-3, UC-4, and UC-7. |
 
-### **Communication Relationships**
-
 | **Relationship** | **Description** |
 |------------------|-----------------|
 | Between client browser and application server | All communication uses HTTPS over RESTful interfaces. |

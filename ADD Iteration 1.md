@@ -85,8 +85,7 @@ The diagram below shows the sketch of a module view of the reference architectur
 | **Communication Utilities SS** | This module offers shared support functions for other server-side components. |
 | **Monitoring and Logging Module SS** | This module records system events, monitors data, and performance metrics.  |
 | **Security Module SS** | This module is responsible for enforcing all security-related policies and services that apply across other layers. |
-| **External Systems** | This layer represents university-managed systems such as the LMS, Registration, and Calendar services.
- |
+| **External Systems** | This layer represents university-managed systems such as the LMS, Registration, and Calendar services.|
 
 ---
 
@@ -95,9 +94,6 @@ The diagram below shows the sketch of a module view of the reference architectur
 The deployment diagram below illustrates where the components associated with the modules will be deployed:
 
 ![Deployment Diagram](deployment.png)
-
-
-### **Deployment Responsibilities**
 
 | **Element** | **Responsibility** |
 |-------------|--------------------|

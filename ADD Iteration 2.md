@@ -41,16 +41,15 @@ In this second iteration, the refinement focuses on the modules located across t
 
 ### Step 6 - Sketch Views and Record Design Decisions
 
-
-Initial Domain Model:
+### **Initial Domain Model:**
 ![Initial Domain Model](initialdomainmodel.png)
 
 
-Domain objects associated with the use case model:
+### **Domain objects associated with the use case model:**
 ![Domain Objects](domainobjects.png)
 
 
-Modules that support the primary use cases:
+### **Modules that support the primary use cases:**
 ![Primary Use Case Modules](primarymodules.png)
 ### Module Responsibilities
 

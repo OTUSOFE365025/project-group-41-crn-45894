@@ -31,6 +31,7 @@
 - **N4: Automated monitoring is already implemented** - Since heartbeat monitoring is provided by the load balancer and/or monitoring service, the system does not depend on manual detection of failures.
 - **N5: Multiple AppServer replicas** - The system is no longer dependent on a single application instance, removing one of the largest availability risks present.
 
+---
 ### Analysis Scenario
 
 | **Analysis Scenario** | **P1.1** |

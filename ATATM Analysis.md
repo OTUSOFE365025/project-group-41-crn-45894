@@ -1,4 +1,4 @@
-### ATAM Utility Tree 
+## ATAM Utility Tree 
 ![ATAM Utility Tree](utilitytree.png)
 
 ## ATAM Analysis

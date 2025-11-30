@@ -63,4 +63,4 @@ Background synchronization or follow-up tasks are placed into the MessageQueue t
 
 The sequence diagram below demonstrates how the newly introduced architectural elements support the performance, availability, and scalability scenarios identified for this iteration.
 
-![Sequence Diagram](insert-your-image-path-here)
+![Sequence Diagram](sequencediagram.png)

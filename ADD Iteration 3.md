@@ -44,6 +44,7 @@ The design concepts used in this iteration are the following:
 
 ### Step 6 - Sketch Views and Record Design Decisions
 
+![Deployment Diagram](deployment2.png)
 
 The following table describes responsibilities for elements that have not been listed previously (in iteration 1):
 
